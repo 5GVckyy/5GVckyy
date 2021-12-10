@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @5GVckyy
+<p align="center">
+  <img src="https://telegra.ph/file/add31c6018ba67309bd3b.jpg">
+</p>
+
+<h4><p align="center"> Steady Project </p></h4>
+
+<p align="center">Steady Project, Steady Project Adalah Project Yang Dibuat Oleh Dua Orang Gabut Yang Bernaama Vcky Dan Ahmad Sekian...</p>
 
 
-<!---
-5GVckyy/5GVckyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
