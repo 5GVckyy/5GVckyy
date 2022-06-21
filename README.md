@@ -7,7 +7,7 @@ I'm a data science student. I mainly write code with Python and R, occasionally 
 
 Here is some of the stuff I enjoy doing:
 * Work with data and APIs
-* Machine learning
+* Python learning
 * Deep learning
 * Data visualization
 * Natural Language Processing
@@ -21,7 +21,7 @@ Here is some of the stuff I enjoy doing:
 <!-- <br />
 🔗 &nbsp;**I am also on:** -->
 <p align="left">
-<a href="https://www.instagram.com/zakaria_abbou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakaria.ab" height="30" width="40" /></a>
+<a href="https://www.instagram.com/141gs_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakaria.ab" height="30" width="40" /></a>
 
 <br />
 
