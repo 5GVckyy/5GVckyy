@@ -21,9 +21,6 @@ Here is some of the stuff I enjoy doing:
 <!-- <br />
 🔗 &nbsp;**I am also on:** -->
 <p align="left">
-<a href="https://zakaria-aabbou.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="zakariaabweb" height="30" width="40" /></a>
-<a href="https://twitter.com/ZakariaAabbou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zakariaab" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zakaria-aabbou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakariaab" height="30" width="40" /></a>
 <a href="https://www.instagram.com/zakaria_abbou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakaria.ab" height="30" width="40" /></a>
 
 <br />
