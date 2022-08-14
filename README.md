@@ -13,6 +13,8 @@ Here is some of the stuff I enjoy doing:
 * Natural Language Processing
 
 
+![「VCKY」](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ### Contact me:
 
 <!-- [<img align="left" alt="https://zakaria-aabbou.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -38,4 +40,3 @@ Here is some of the stuff I enjoy doing:
 
 
 
-![「VCKY」](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
