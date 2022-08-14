@@ -37,3 +37,5 @@ Here is some of the stuff I enjoy doing:
 ---
 
 
+
+![「VCKY」](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
