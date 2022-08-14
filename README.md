@@ -15,28 +15,18 @@ Here is some of the stuff I enjoy doing:
 
 ![「VCKY」](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-### Contact me:
-
-<!-- [<img align="left" alt="https://zakaria-aabbou.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="zakaria | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<!-- [<img align="left" alt="zakaria | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-<!-- <br />
-🔗 &nbsp;**I am also on:** -->
-<p align="left">
-<a href="https://www.instagram.com/141gs_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakaria.ab" height="30" width="40" /></a>
-
-<br />
 
 
+<details>
+    <summary>「🧧」 <b>Follow Me On</b></summary><br/>
+<p align="center">
+  <a href="https://www.instagram.com/141gs__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/5GVckyy"><img src="https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/Rlxfly" /></a>
+</p>
 
-</table>
-
-<br />
-<br />
-
-
----
 
 
 
